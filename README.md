@@ -1,6 +1,4 @@
-# Min-Max-Tic-Tac-Toe-Game
-
-# Adversarial Search: Games
+# Adversarial Search:  Min-Max-Tic-Tac-Toe-Game
 
 ## Overview
 
