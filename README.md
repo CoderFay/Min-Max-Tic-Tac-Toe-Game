@@ -30,6 +30,6 @@ This notebook serves as an educational resource for understanding adversarial se
 
 ## Access the Notebook
 
-To explore the notebook, [click here](#AdversialSearch.ipynb). 
+To explore the notebook, [click here](AdversialSearch.ipynb). 
 
 
