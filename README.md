@@ -24,9 +24,6 @@ This project notebook delves into **Adversarial Search**, a pivotal technique in
 
 - **Analysis**: Evaluation of the performance of these algorithms in different scenarios and their effect on gameplay.
 
-## How to Use
-
-This notebook serves as an educational resource for understanding adversarial search principles in game theory. Users can explore the code and concepts to understand how AI can be applied to competitive games.
 
 ## Access the Notebook
 
