@@ -1,5 +1,7 @@
 # Adversarial Search:  Min-Max-Tic-Tac-Toe-Game
 
+![Example Image](images/Capture.png)
+
 ## Overview
 
 This project notebook delves into **Adversarial Search**, a pivotal technique in Artificial Intelligence (AI) used primarily in game theory. Adversarial search helps in determining the optimal moves in two-player competitive games. This notebook examines various strategies and algorithms that enable AI agents to make decisions in such competitive settings.
