@@ -1,6 +1,6 @@
 # Adversarial Search:  Min-Max-Tic-Tac-Toe-Game
 
-![Example Image](images/Capture.png)
+![Example Image](images/Capture.PNG)
 
 ## Overview
 
